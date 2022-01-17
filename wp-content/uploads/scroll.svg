@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="11px" height="182px" viewBox="0 0 11 182" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-1280.000000, -1068.000000)">
+            <g id="Group" transform="translate(1276.000000, 1065.000000)">
+                <path d="M8.5,84 L8.5,184" id="Line-3" stroke="#191919" stroke-linecap="square"></path>
+                <g id="Scroll" transform="translate(9.000000, 34.000000) rotate(-90.000000) translate(-9.000000, -34.000000) translate(-25.000000, 25.000000)" fill="#191919" font-family="HKGrotesk-Medium, HK Grotesk" font-size="14" font-weight="400" letter-spacing="2.5">
+                    <text id="SCROLL">
+                        <tspan x="0" y="14">SCROLL</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
